@@ -1,0 +1,10 @@
+.components-style{
+    background: linear-gradient(315deg, rgb(24, 23, 47) 32%, rgb(47, 30, 113) 100%);
+}
+.whatdo-ul li{
+font-size: large;
+font-family: 'Courier New', Courier, monospace;
+color: rgb(230, 251, 255);
+text-align: center;
+
+}
